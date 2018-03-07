@@ -1,1 +1,2 @@
 This is some content in a file.
+Some more content.
